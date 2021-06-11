@@ -1,0 +1,1518 @@
+{
+  "ar/archive/beginner_tutorials/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/beginner_tutorials/underscores_in_class_and_id_names/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/css3/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/mdn/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/meta_docs/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/mozilla/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/mozilla/marketplace/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/mozilla/marketplace/publishing/submit/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/mozilla/marketplace/publishing/submit/rating_your_content/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/mozilla/xul/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/mozilla/xulrunner/getting_started_with_xulrunner/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/mozilla/xulrunner/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/archive/themes/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/building_a_theme/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/games/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/games/techniques/3d_on_the_web/basic_theory/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/games/techniques/3d_on_the_web/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/games/techniques/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/accessibility/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/algorithm/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/api/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/argument/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/array/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/attribute/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/bandwidth/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/blink/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/boolean/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/browser/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/compile/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/computer_programming/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/cookie/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/copyleft/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/data_structure/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/decryption/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/denial_of_service/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/dom/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/dos_attack/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/forbidden_header_name/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/function/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/google_chrome/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/gpl/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/grid_areas/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/hyperlink/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/identifier/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/mozilla_firefox/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/oop/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/parameter/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/php/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/recursion/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/rendering_engine/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/search_engine/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/semantics/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/server/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/string/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/tag/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/variable/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/wai/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/wrapper/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/الحروف/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/glossary/الخاصية/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/glossary/الدوال_من_الدرجة_الأولى/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/glossary/الكائنات/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/glossary/المجالات/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/heesfoord007/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/html/element/article/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/html/element/bdo/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/html/element/headings_elements/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/html/element/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/html/element/span/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/html/element/tt/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/learn/accessibility/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/accessibility/what_is_accessibility/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/common_questions/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/common_questions/what_is_a_web_server/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/common_questions/كيفية_عمل/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/learn/css/building_blocks/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/css/building_blocks/selectors/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/css/building_blocks/selectors/type_class_and_id_selectors/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/css/css_layout/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/css/first_steps/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/css/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/front-end_web_developer/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/getting_started_with_the_web/dealing_with_files/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/getting_started_with_the_web/how_the_web_works/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/getting_started_with_the_web/html_basics/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/getting_started_with_the_web/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/getting_started_with_the_web/installing_basic_software/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/getting_started_with_the_web/javascript_basics/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/getting_started_with_the_web/what_will_your_website_look_like/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/getting_started_with_the_web/أساسيات_صفحات_الطرز_المتراصة/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/learn/how_to_contribute/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/learn/html/forms/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/learn/html/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/html/introduction_to_html/getting_started/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/html/introduction_to_html/html_text_fundamentals/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/html/introduction_to_html/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/html/multimedia_and_embedding/index.html": {
+    "modified": "2021-02-12T16:36:30.000Z",
+    "hash": "296bb7859bcc5436d18653e168054c6e39030cd2",
+    "merged": {
+      "modified": "2021-02-12T16:57:51.000Z",
+      "hash": "c749df57502fb5c01f79f36c0922652626785de3"
+    }
+  },
+  "ar/learn/html/الجداول/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/learn/html/بسيطة_html_إنشاء_صفحة/index.html": {
+    "modified": "2020-12-10T20:07:40.000Z",
+    "hash": "e3e12548adeb7e1dcfc4d5b32884a225ee2b499d"
+  },
+  "ar/learn/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/javascript/first_steps/a_first_splash/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/javascript/first_steps/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/javascript/first_steps/useful_string_methods/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/javascript/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/javascript/objects/basics/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/javascript/objects/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/javascript/objects/inheritance/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/javascript/objects/object-oriented_js/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/javascript/objects/object_prototypes/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/server-side/django/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/server-side/express_nodejs/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/server-side/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/localization_and_plurals/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mdn/about/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/community/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/mdn/community/whats_happening/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/mdn/contribute/feedback/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/contribute/getting_started/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/contribute/howto/do_a_technical_review/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/mdn/contribute/howto/do_an_editorial_review/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/mdn/contribute/howto/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/contribute/howto/report_a_problem/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/contribute/howto/set_the_summary_for_a_page/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/mdn/contribute/howto/tag/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/contribute/howto/write_a_new_entry_in_the_glossary/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/contribute/howto/write_an_article_to_help_learn_about_the_web/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/mdn/contribute/howto/إنشاء_حساب_على_شبكة_مطوري_موزيلا/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/mdn/contribute/howto/كيفية_إنشاء_وتحرير_الصفحات/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/mdn/contribute/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/contribute/localize/index.html": {
+    "modified": "2020-12-11T23:59:39.000Z",
+    "hash": "d192fb918b0e2aa8869de6dcc59de8464b6e879a"
+  },
+  "ar/mdn/contribute/localize/صفحات_الترجمة/index.html": {
+    "modified": "2020-12-11T23:59:39.000Z",
+    "hash": "d192fb918b0e2aa8869de6dcc59de8464b6e879a"
+  },
+  "ar/mdn/contribute/persona_sign-in/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mdn/guidelines/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/guidelines/writing_style_guide/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/kuma/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/mdn/tools/deleting_pages/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/mdn/tools/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn_at_ten/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/midas/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/midas/security_preferences/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/add-ons/add-on_guidelines/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/add-ons/amo/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/add-ons/amo/policy/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/add-ons/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/add-ons/themes/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/add-ons/webextensions/api/browsingdata/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/add-ons/webextensions/api/contentscripts/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/add-ons/webextensions/api/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/add-ons/webextensions/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/add-ons/webextensions/manifest.json/content_scripts/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/add-ons/webextensions/manifest.json/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/add-ons/webextensions/match_patterns/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/add-ons/webextensions/ما_هي_امتدادات_الويب/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/mozilla/connect/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/developer_guide/adding_apis_to_the_navigator_object/index.html": {
+    "modified": "2021-04-29T15:14:49.000Z",
+    "hash": "50c10e22a2a094f9d46edd56eb64d12f7652246f"
+  },
+  "ar/mozilla/developer_guide/index.html": {
+    "modified": "2021-04-29T15:14:49.000Z",
+    "hash": "50c10e22a2a094f9d46edd56eb64d12f7652246f"
+  },
+  "ar/mozilla/developer_guide/source_code/index.html": {
+    "modified": "2021-04-29T15:14:49.000Z",
+    "hash": "50c10e22a2a094f9d46edd56eb64d12f7652246f"
+  },
+  "ar/mozilla/firefox/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/firefox/releases/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/firefox_for_android/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/gecko/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/localization/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/localization/localizing_xliff_files/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/localization/web_localizability/creating_localizable_web_applications/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/localization/web_localizability/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/localization/الترجمة_مع_بونتوون/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/mobile/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/mobile/viewport_meta_tag/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/preferences/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/projects/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/projects/spidermonkey/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/projects/spidermonkey/introduction_to_the_javascript_shell/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla/tech/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla_mathml_project/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/mozilla_mathml_project/start/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/new_compatibility_tables_beta/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/sandbox/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/tools/browser_console/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/tools/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/tools/page_inspector/how_to/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/tools/page_inspector/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/tools/scratchpad/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/tools/storage_inspector/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/tools/web_console/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/tools/web_console/the_command_line_interpreter/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/tools/webide/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/tools/webide/troubleshooting/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/web/accessibility/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/attr/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/canvas_api/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/document/designmode/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/document/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/domtokenlist/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/domtokenlist/length/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/element/classname/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/element/closest/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/element/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/element/insertadjacenthtml/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/event/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/geolocation/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/geolocation/using_geolocation/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/api/geolocation/using_geolocation/using_the_geolocation_api/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/api/history_api/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/history_api/مثال/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/api/htmlelement/contenteditable/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/htmlelement/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/navigator.battery/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/api/navigator/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/node/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/node/removechild/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/window/alert/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/window/domcontentloaded_event/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/window/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/xsltprocessor/basic_example/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/xsltprocessor/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/align-content/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/attribute_selectors/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/css_flexible_box_layout/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/css_flexible_box_layout/المفاهيم_الأساسية_للصندوق_المرن/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/css/css_grid_layout/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/css_grid_layout/relationship_of_grid_layout_arabic/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/css/css_writing_modes/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/order/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/pointer-events/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/reference/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/التحول/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/css/التعليقات/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/css/العناصر_التي_يمكن_تحريكها_باستخدام_css_transitions/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/events/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/guide/css/getting_started/index.html": {
+    "modified": "2020-12-10T20:07:40.000Z",
+    "hash": "e3e12548adeb7e1dcfc4d5b32884a225ee2b499d"
+  },
+  "ar/web/guide/css/getting_started/readable_css/index.html": {
+    "modified": "2020-12-10T20:07:40.000Z",
+    "hash": "e3e12548adeb7e1dcfc4d5b32884a225ee2b499d"
+  },
+  "ar/web/guide/css/getting_started/القوائم/index.html": {
+    "modified": "2020-12-10T20:07:40.000Z",
+    "hash": "e3e12548adeb7e1dcfc4d5b32884a225ee2b499d"
+  },
+  "ar/web/guide/css/index.html": {
+    "modified": "2020-12-10T20:07:40.000Z",
+    "hash": "e3e12548adeb7e1dcfc4d5b32884a225ee2b499d"
+  },
+  "ar/web/guide/html/html5/html5_element_list/index.html": {
+    "modified": "2020-12-10T20:07:40.000Z",
+    "hash": "e3e12548adeb7e1dcfc4d5b32884a225ee2b499d"
+  },
+  "ar/web/guide/html/html5/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/guide/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/guide/الرسومات/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/html/element/input/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/html/element/input/radio/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/html/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/html_لغة_ترميز_النص_الفائق/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/http/basics_of_http/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/http/basics_of_http/mime_types/common_types/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/http/basics_of_http/mime_types/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/http/connection_management_in_http_1.x/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/http/headers/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/http/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/http/overview/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/about_javascript/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/guide/control_flow_and_error_handling/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/guide/grammar_and_types/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/guide/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/guide/introduction/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/guide/loops_and_iteration/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/guide/regular_expressions/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/guide/working_with_objects/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/guide/الدوال/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/javascript/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/introduction_to_object-oriented_javascript/index.html": {
+    "modified": "2020-12-10T20:07:40.000Z",
+    "hash": "e3e12548adeb7e1dcfc4d5b32884a225ee2b499d"
+  },
+  "ar/web/javascript/reference/classes/constructor/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/classes/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/errors/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/errors/unexpected_type/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/array/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/array/isarray/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/array/join/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/array/pop/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/array/reverse/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/array/slice/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/date/getdate/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/date/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/date/now/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/date/parse/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/date/setdate/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/date/utc/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/function/call/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/function/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/json/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/map/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/math/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/object/constructor/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/object/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/string/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/string/startswith/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/الارقام/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/javascript/reference/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/operators/destructuring_assignment/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/operators/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/operators/new/index.html": {
+    "modified": "2021-02-12T16:36:30.000Z",
+    "hash": "296bb7859bcc5436d18653e168054c6e39030cd2",
+    "merged": {
+      "modified": "2021-02-12T16:57:51.000Z",
+      "hash": "c749df57502fb5c01f79f36c0922652626785de3"
+    }
+  },
+  "ar/web/javascript/reference/operators/object_initializer/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/operators/operator_precedence/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/operators/this/index.html": {
+    "modified": "2021-02-12T16:36:30.000Z",
+    "hash": "296bb7859bcc5436d18653e168054c6e39030cd2",
+    "merged": {
+      "modified": "2021-02-12T16:57:51.000Z",
+      "hash": "c749df57502fb5c01f79f36c0922652626785de3"
+    }
+  },
+  "ar/web/javascript/reference/statements/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/statements/return/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/الدوال/get/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/javascript/reference/الدوال/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/mathml/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/svg/attribute/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/svg/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/tutorials/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/حماية/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web/مرجع/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/web_development/index.html": {
+    "modified": "2020-12-10T20:07:40.000Z",
+    "hash": "e3e12548adeb7e1dcfc4d5b32884a225ee2b499d"
+  },
+  "ar/web_development/mobile/index.html": {
+    "modified": "2020-12-10T20:07:40.000Z",
+    "hash": "e3e12548adeb7e1dcfc4d5b32884a225ee2b499d"
+  },
+  "ar/zones/index.html": {
+    "modified": "2020-12-09T02:46:22.000Z",
+    "hash": "a065e04d529da1d847b5062a12c46d916408bf32"
+  },
+  "ar/أحداث_مكتبة_jquery/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/مكتبة_جي_كويري/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/واصفة_spellcheck_الجديدة_في_html5/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/واصفة_العنوان_في_html/index.html": {
+    "modified": "2020-12-08T19:41:15.000Z",
+    "hash": "4b1a9203c547c019fc5398082ae19a3f3d4c3efe"
+  },
+  "ar/conflicting/learn/css/first_steps/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/conflicting/learn/css/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/conflicting/learn/getting_started_with_the_web/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/conflicting/learn/javascript/objects/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/conflicting/web/guide/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/conflicting/web/html/element/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/conflicting/web/html/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/character/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/first-class_function/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/object/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/property/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/glossary/scope/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/common_questions/how_does_the_internet_work/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/css/first_steps/how_css_is_structured/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/css/styling_text/styling_lists/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/forms/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/getting_started_with_the_web/css_basics/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/learn/html/tables/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/at_ten/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/contribute/howto/create_and_edit_pages/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mdn/yari/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/mozilla/add-ons/webextensions/what_are_webextensions/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/heesfoord007/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/learn/how_to_contribute/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/mdn/community/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/mdn/community/whats_happening/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/mdn/contribute/howto/create_an_mdn_account/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/mdn/contribute/howto/do_a_technical_review/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/mdn/contribute/howto/do_an_editorial_review/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/mdn/contribute/howto/set_the_summary_for_a_page/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/mdn/contribute/howto/write_an_article_to_help_learn_about_the_web/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/mdn/tools/page_deletion/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/أحداث_مكتبة_jquery/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/مكتبة_جي_كويري/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/واصفة_spellcheck_الجديدة_في_html5/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/orphaned/واصفة_العنوان_في_html/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/geolocation_api/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/geolocation_api/using_the_geolocation_api/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/history_api/example/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/api/navigator/battery/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/comments/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/css_animated_properties/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/css_flexible_box_layout/basic_concepts_of_flexbox/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/css_grid_layout/relationship_of_grid_layout/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/css/transform/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/guide/graphics/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/guide/mobile/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/html/element/article/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/html/element/bdo/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/html/element/heading_elements/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/html/element/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/html/element/span/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/html/element/tt/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/guide/functions/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/functions/get/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/functions/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/javascript/reference/global_objects/number/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/reference/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  },
+  "ar/web/security/index.html": {
+    "modified": "2021-04-29T23:16:42.000Z",
+    "hash": "95aca4b4d8fa62815d4bd412fff1a364f842814a"
+  }
+}
